@@ -2,7 +2,7 @@
 This project is aimed at identifying duplicate questions on Quora using machine learning techniques. The goal is to help Quora identify duplicate questions and reduce the number of redundant questions on the platform.
 
 ## Dataset
-The dataset for this project contains pairs of questions from Quora and labels indicating whether the questions are duplicates or not. The dataset can be downloaded from Kaggle.
+The dataset for this project contains pairs of questions from Quora and labels indicating whether the questions are duplicates or not. The dataset can be downloaded from [data](https://www.kaggle.com/c/quora-question-pairs/data).
 
 ## Approach
 The approach used in this project involves the following steps:
